@@ -1,0 +1,47 @@
+!DOCTYPE html
+html
+head
+  title Homepage Of Netflixtitle
+  link rel=stylesheet href=style.css
+head
+body
+  div class=container
+    header class=header
+      div class=logoNetflixdiv
+      nav class=navigation
+        a href=#Homea
+        a href=#TV Showsa
+        a href=#Moviesa
+        a href=#My Lista
+      nav
+    header
+
+    section class=hero
+      h1Unlimited movies, TV shows, and more.h1
+      pWatch anywhere. Cancel anytime.p
+    section
+
+    section class=features
+      div class=feature
+        img src=httpsexample.comfeature1.png alt=Feature 1
+        h2Watch on your TVh2
+        pEnjoy on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.p
+      div
+      div class=feature
+        img src=httpsexample.comfeature2.png alt=Feature 2
+        h2Download your showsh2
+        pSave your favorites easily and always have something to watch offline.p
+      div
+      div class=feature
+        img src=httpsexample.comfeature3.png alt=Feature 3
+        h2Watch everywhereh2
+        pStream unlimited movies and TV shows on your phone, tablet, laptop, and TV.p
+      div
+    section
+
+    footer class=footer
+      p&copy; 2023 Netflixp
+    footer
+  div
+body
+html
